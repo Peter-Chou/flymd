@@ -5,7 +5,7 @@ var markdownFilename = "flymd.md";
 /// This is the script for MathJax
 /// Source
 /// https://www.mathjax.org/
-var MathJaxScript = "<script type=\"text/javascript\" src=\"http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>";
+var MathJaxScript = "<script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML\"></script>";
 
 var gfmMode = false;
 var autoRefresh = true;
